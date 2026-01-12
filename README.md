@@ -1,5 +1,3 @@
-# README
-
 ### Purpose
 
 Store image files (`.jpg`, `.png`) to be accessed via address link (URL). 
